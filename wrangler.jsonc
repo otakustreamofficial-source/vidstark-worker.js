@@ -1,6 +1,5 @@
 {
   "$schema": "https://www.cloudflare.com/schemas/wrangler.json",
-  "name": "${WORKER_NAME}",
   "main": "./worker.js",
   "compatibility_date": "2026-10-18"
 }
